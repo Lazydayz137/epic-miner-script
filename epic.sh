@@ -1,4 +1,5 @@
 #!/bin/sh
+dpkg --configure -a
 
 mkdir epic-miner
 cd epic-miner
