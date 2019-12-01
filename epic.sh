@@ -1,3 +1,5 @@
+#!/bin/sh
+
 mkdir epic-miner
 cd epic-miner
 sudo apt install libncurses5 libncursesw5 zlib1g openssl -y
